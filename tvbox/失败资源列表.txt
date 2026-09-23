@@ -1,0 +1,11 @@
+https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt
+https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt
+https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt
+http://127.0.0.1:9978/file/TVBox/bili_cookie.txt
+https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/学堂教育.json
+https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/初中课堂.json
+https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童拼音.json
+https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童识字.json
+https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童英语.json
+https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小灯塔国学.json
+https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童编程.json
