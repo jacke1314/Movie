@@ -16,7 +16,7 @@
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢点击“主页“选择各影院””",
+            "name": "📢点击“主页“选择金牌影视或New6v磁力",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
